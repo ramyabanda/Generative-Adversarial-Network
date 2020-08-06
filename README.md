@@ -4,12 +4,12 @@ GAN's architecture is essentially made up of two neural networks that pit agaisn
 
 In this project I tried to generate numbers that were created from Gaussian noise but were so realistic by the end of the training that the discriminator was completely fooled, thus giving 100% accuracy.
 
-The initial gaussian noise 
+The initial gaussian noise before training:
 
-/Users/ramyabanda/Desktop/download-1.png
+![](Images/gaussian_noise_before.png)
 
 that turned into these numbers with the help of the generator.
 
-/Users/ramyabanda/Desktop/download-2.png
+![](Images/generated_after.png)
 
 A few places GAN's can also be used are in generating artwork, changing facial expressions, and creating game backgrounds. 
